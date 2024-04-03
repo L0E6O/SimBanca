@@ -8,7 +8,8 @@ public class SchermataHome extends JFrame{
 
     public SchermataHome(String title) throws HeadlessException {
         super(title);
-        JPanel panel = new JPanel();
+        JPanel p1 = new JPanel();
+        
     }
     
     
